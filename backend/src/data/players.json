@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "user_name": "Bushido",
+    "email": "bushidinho@gmail.com",
+    "password": 83098332,
+    "characters": [
+      {
+        "char_id": 1,
+        "character_name": "Mestre Bushido[ADM]",
+        "character_class": "mage",
+        "character_level": 1,
+        "character_experience": 0,
+        "character_gold": 0,
+        "character_hp": 100,
+        "character_mp": 100,
+        "character_strength": 10,
+        "character_dexterity": 10,
+        "character_intelligence": 10,
+        "character_constitution": 10,
+        "character_attack": 100,
+        "character_defense": 100,
+        "character_magic_attack": 100,
+        "character_magic_defense": 100
+      },
+      {
+        "char_id": 2,
+        "character_name": "Bushidinho[ADM]",
+        "character_class": "warrior",
+        "character_level": 1,
+        "character_experience": 0,
+        "character_gold": 0,
+        "character_hp": 100,
+        "character_mp": 100,
+        "character_strength": 10,
+        "character_dexterity": 10,
+        "character_intelligence": 10,
+        "character_constitution": 10,
+        "character_attack": 100,
+        "character_defense": 100,
+        "character_magic_attack": 100,
+        "character_magic_defense": 100
+      }
+    ]
+  }
+]
